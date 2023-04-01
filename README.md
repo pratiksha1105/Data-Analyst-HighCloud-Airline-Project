@@ -1,4 +1,4 @@
-# Data-Analyst---HighCloud-Airline-Project
+# Data-Analyst-HighCloud-Airline-Project
 
 • Analyzed the airline database, converted raw data into a visual that transforms the way people use data for problem-solving and decision-making.
 
