@@ -6,6 +6,6 @@
 
 • Analyzed data and applied filters to the search capability to find the flights between the sources.
 
-• Advanced Excel, Power BI, and Tableau were used to develop dashboards that included interactive visualization and reports to deliver the analysis findings.
+• Advanced Excel, Power BI, Tableau, and Sql were used to develop dashboards that included interactive visualization and reports to deliver the analysis findings.
 
 Skills: Microsoft Excel, Power Bi, Tableau, and SQL.
